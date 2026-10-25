@@ -5,3 +5,6 @@ plugins {
 application {
     mainClass = 'App'
 }
+
+// apply plugin = 'application'
+// mainClassName = 'App'
